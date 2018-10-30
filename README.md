@@ -12,9 +12,9 @@ Homework and case studies for course "Using Python for Research"  HarvardX -  PH
 * Randomness and Time 
 
 ## Week 3: Case Studies Part 1
-*DNA Translation 
-*Language Processing 
-*Introduction to Classification 
+* DNA Translation 
+* Language Processing 
+* Introduction to Classification 
 
 ## Week 4: Case Studies Part 2
 * Classifying Whiskies 
